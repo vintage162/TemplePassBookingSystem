@@ -5,16 +5,15 @@ A web-based application for managing and booking passes to visit a temple. This 
 ## Features
 
 - User Registration and Booking Form
-- Booking Confirmation and Status
 - View All Bookings (Admin Panel)
 - Check Available Passes
-- Admin Dashboard for managing system operations
+
 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS
 - **Backend**: PHP
-- **Database**: MySQL (assumed based on filenames, please update if different)
+- **Database**: MySQL 
 
 
 Setup
@@ -22,7 +21,7 @@ Setup
 
 2.Move the project folder to the htdocs directory.
 
-3.Import the database (if .sql file is included).
+3.Create Database
 
 4.Access the application at http://localhost/TemplePassBookingSystem.
 
